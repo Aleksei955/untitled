@@ -6,7 +6,7 @@ public class HomeWorAppTwo {
 /*        System.out.println(within10and20(5, 10));*/
 /*        isPositiveOrNegative(0);*/
 /*        System.out.println(positiveAndNegative(0));*/
-          stringAndNumber("!!!", 20);
+          stringAndNumber("???", 20);
 
     }
 /*    public static boolean within10and20 (int x1 , int x2) {
